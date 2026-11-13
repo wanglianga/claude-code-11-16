@@ -1,0 +1,6 @@
+record_no,meter_no,device_id,reading_time,reading_kwh,is_correction
+MR-XJ-001,M-XJ-01,,2026-10-01 00:00,8000,false
+MR-XJ-002,M-XJ-01,,2026-10-08 00:00,8800,false
+MR-XJ-003,M-XJ-01,,2026-10-15 00:00,9600,false
+MR-XJ-004,M-XJ-01,,2026-10-22 00:00,10400,false
+MR-XJ-005,M-XJ-01,,2026-11-01 00:00,11200,false

@@ -1,0 +1,12 @@
+record_no,meter_no,device_id,reading_time,reading_kwh,is_correction
+DR-SH-A1,M-A,DEV-A,2026-10-01 00:00,0,false
+DR-SH-A2,M-A,DEV-A,2026-10-02 10:00,25,false
+DR-SH-A3,M-A,DEV-A,2026-10-08 00:00,300,false
+DR-SH-A4,M-A,DEV-A,2026-10-15 00:00,620,false
+DR-SH-A5,M-A,DEV-A,2026-10-22 00:00,900,false
+DR-SH-A6,M-A,DEV-A,2026-11-01 00:00,1250,false
+DR-SH-B1,M-B,DEV-B,2026-10-01 00:00,0,false
+DR-SH-B2,M-B,DEV-B,2026-10-08 00:00,250,false
+DR-SH-B3,M-B,DEV-B,2026-10-15 00:00,500,false
+DR-SH-B4,M-B,DEV-B,2026-10-22 00:00,760,false
+DR-SH-B5,M-B,DEV-B,2026-11-01 00:00,1000,false

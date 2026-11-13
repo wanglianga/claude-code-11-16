@@ -1,0 +1,2 @@
+record_no,meter_no,effective_time,old_final_reading,new_initial_reading,evidence_note
+RP-XJ-001,M-C,2026-10-15 00:00,800,50,旧表通讯模块烧毁，工单 WO-20261015-07 换新表

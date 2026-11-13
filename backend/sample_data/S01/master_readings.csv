@@ -1,0 +1,6 @@
+record_no,meter_no,device_id,reading_time,reading_kwh,is_correction
+MR-SH-001,M-SH-01,,2026-10-01 00:00,5000,false
+MR-SH-002,M-SH-01,,2026-10-08 00:00,5620,false
+MR-SH-003,M-SH-01,,2026-10-15 00:00,6280,false
+MR-SH-004,M-SH-01,,2026-10-22 00:00,6920,false
+MR-SH-005,M-SH-01,,2026-11-01 00:00,7600,false

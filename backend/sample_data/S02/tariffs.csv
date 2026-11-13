@@ -1,0 +1,7 @@
+record_no,tariff_name,effective_date,end_date,segment_name,start_hour,end_hour,price
+TAR-XJ-Q4,乌鲁木齐四季度电价,2026-09-01,,valley,0,8,0.3000
+TAR-XJ-Q4,乌鲁木齐四季度电价,2026-09-01,,flat,8,10,0.7000
+TAR-XJ-Q4,乌鲁木齐四季度电价,2026-09-01,,peak,10,13,1.0000
+TAR-XJ-Q4,乌鲁木齐四季度电价,2026-09-01,,flat,13,19,0.7000
+TAR-XJ-Q4,乌鲁木齐四季度电价,2026-09-01,,peak,19,23,1.0000
+TAR-XJ-Q4,乌鲁木齐四季度电价,2026-09-01,,valley,23,24,0.3000
